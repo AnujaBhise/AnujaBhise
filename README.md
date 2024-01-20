@@ -77,12 +77,13 @@
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)|
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<!--
 ## Top Pins -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/itasks)
+[![Recipe-App2](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
+(https://github.com/AnujaBhise/Recipe-App2)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/web-projects)
-[![Anuja Bhise Readme](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=anujabhise&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/anujabhise)
+[![Anuja Bhise Readme](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=anujabhise&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/anujabhise) -->
 
 <p align="left">
   <a href="https://github.com/anujabhise?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -109,10 +110,17 @@
   <br/>
 </a>
 
-![GitHub Contribution Graph](https://github.com/users/AnujaBhise/contributions)
 
 
-<hr>
+
+[![Anuja Bhise GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujaBhise&show_icons=true&theme=tokyonight)](https://github.com/AnujaBhise)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujaBhise&theme=tokyonight)](https://github.com/AnujaBhise)
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnujaBhise&theme=dark&area=true&hide_border=true)
+
+
+
 
 
 
