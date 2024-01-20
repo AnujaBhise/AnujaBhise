@@ -113,12 +113,6 @@
 
 
 
-[![Anuja Bhise GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujaBhise&show_icons=true&theme=tokyonight)](https://github.com/AnujaBhise)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujaBhise&theme=tokyonight)](https://github.com/AnujaBhise)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnujaBhise&theme=dark&area=true&hide_border=true)
-
 
 
 
