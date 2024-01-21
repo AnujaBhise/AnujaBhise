@@ -62,6 +62,7 @@
  📧 &emsp; Reach me anytime: iamanujabhise@gmail.com<br/><br/>
 
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Use To Code <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">  
 
@@ -77,36 +78,25 @@
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)|
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!--
-## Top Pins -
-[![Recipe-App2](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
-(https://github.com/AnujaBhise/Recipe-App2)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/web-projects)
-[![Anuja Bhise Readme](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=anujabhise&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/anujabhise/anujabhise) -->
-
-<p align="left">
-  <a href="https://github.com/anujabhise?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
 
 <p align="center">
-  <a href="https://github.com/anujabhise">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujabhise&theme=radical&border=7F3FBF&background=0D1117" alt="Anuja's GitHub streak"/>
+  <a href="https://github.com/AnujaBhise">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnujaBhise&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="Anuja Bhise's GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anujabhise">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujabhise&theme=radical" alt="Anuja Bhise's GitHub Contribution"/>
+  <a href="https://github.com/AnujaBhise">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaBhise&theme=tokyonight&border_radius=8" alt="Anuja Bhise's GitHub Streak"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/anujabhise"><img alt="Anuja Bhise's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anujabhise&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%"/></a>
-  <a href="https://github.com/anujabhise"><img alt="Anuja Bhise's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anujabhise&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/AnujaBhise">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujaBhise&theme=radical" alt="Anuja Bhise's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
 
