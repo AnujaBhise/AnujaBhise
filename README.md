@@ -55,11 +55,17 @@
 
 <!-- About Section -->
  #  About me  :boom:
- <img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="250">
+ <!--<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="250">-->
 <p>
- :v: &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: iamanujabhise@gmail.com<br/><br/>
+✌️ Programming enthusiast and knowledge sharer.
+
+❤️ Passionate about writing code and continuously learning.
+
+🚀 Always exploring new technologies and features.
+
+🌐 Open to collaborations and contributions.
+
+📧 Contact me at iamanujabhise@gmail.com.
 
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
