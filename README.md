@@ -79,24 +79,28 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">
-  <a href="https://github.com/AnujaBhise">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnujaBhise&rank_icon=percentile&show_icons=true&theme=tokyonight&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="Anuja Bhise's GitHub Stats"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/AnujaBhise">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaBhise&theme=tokyonight&border_radius=8" alt="Anuja Bhise's GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnujaBhise&rank_icon=percentile&show_icons=true&theme=radical&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A09&border_radius=8" alt="Anuja Bhise's GitHub Stats"/>
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/AnujaBhise">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaBhise&theme=radical&border_radius=8" alt="Anuja Bhise's GitHub Streak"/>
+  </a>
+</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/AnujaBhise">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujaBhise&theme=radical" alt="Anuja Bhise's GitHub Contribution"/>
   </a>
 </p>
-
 
 
 
