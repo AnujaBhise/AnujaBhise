@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://anujabhise.com">Anuja Bhise</a></b>
+                <b><a target="_blank" href="https://iamanujabhise.webflow.io/">Anuja Bhise</a></b>
         </samp>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
- <a href="https://anujabhise.com" target="blank">
+ <a href="https://iamanujabhise.webflow.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="anujabhise" />
  </a>
  <a href="https://www.linkedin.com/in/anujabhise/" target="_blank">
