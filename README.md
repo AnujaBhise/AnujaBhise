@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/AnujaBhise">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnujaBhise&rank_icon=percentile&show_icons=true&theme=radical&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A09&border_radius=8" alt="Anuja Bhise's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnujaBhise&rank_icon=percentile&show_icons=true&theme=radical" alt="Anuja Bhise's GitHub Stats"/>
   </a>
 </p>
 
