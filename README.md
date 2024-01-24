@@ -85,6 +85,12 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+ #  Some of my Projects  :books:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=iEmailValidate&theme=radical)](https://github.com/anujabhise/iEmailValidate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=appleVisionClone&theme=radical)](https://github.com/anujabhise/appleVisionClone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=Integrate-with-Machine-Learning-APIs-Challenge-Lab&theme=radical)](https://github.com/anujabhise/Integrate-with-Machine-Learning-APIs-Challenge-Lab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=BigTable-using-BigQuery-Python-API&theme=radical)](https://github.com/anujabhise/BigTable-using-BigQuery-Python-API)
+
 
 <p align="center">
   <a href="https://github.com/AnujaBhise">
