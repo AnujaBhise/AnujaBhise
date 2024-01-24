@@ -86,9 +86,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  #  Some of my Projects  :books:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=appleVisionClone&theme=radical)](https://github.com/AnujaBhise/appleVisionClone)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=appleVisionClone&theme=radical)](https://github.com/AnujaBhise/appleVisionClone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=RealEstateVision&theme=radical)](https://github.com/AnujaBhise/RealEstateVision)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=CyberFiction&theme=radical)](https://github.com/AnujaBhise/CyberFiction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=CyberFiction&theme=radical)](https://github.com/AnujaBhise/CyberFiction)-->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=MyRecipeApp&theme=radical)](https://github.com/AnujaBhise/MyRecipeApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anujabhise&repo=iEmailValidate&theme=radical)](https://github.com/anujabhise/iEmailValidate)
