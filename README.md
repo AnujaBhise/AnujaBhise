@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018d27d7-4d5a-4950-abb9-73038538fdb0.svg)](https://wakatime.com/@018d27d7-4d5a-4950-abb9-73038538fdb0)
+<!--[![wakatime](https://wakatime.com/badge/user/018d27d7-4d5a-4950-abb9-73038538fdb0.svg)](https://wakatime.com/@018d27d7-4d5a-4950-abb9-73038538fdb0)-->
 <a href="https://komarev.com/ghpvc/?username=anujabhise">
   <img align="right" src="https://komarev.com/ghpvc/?username=anujabhise&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
