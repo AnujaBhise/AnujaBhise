@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="https://github.com/anujabhise"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Aspiring%20Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=2%20years%20Experienced;%20UI%20UX%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=40">
 </a>
 </p>
 
